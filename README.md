@@ -1,2 +1,2 @@
 # Kilimanjaro
-A  multifunctional Considerate APP that assists students study , relaxes , chats and sleeps.
+A  multifunctional Considerate APP that assists students to study , relax , chat and sleep.
